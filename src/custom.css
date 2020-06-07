@@ -1,0 +1,65 @@
+body {
+  margin: 0 auto;
+}
+.plus {
+  padding: 0em;
+  display: inline;
+  margin: 20px 0 0 0;
+}
+
+button:active,
+button:focus,
+input:active,
+input:focus {
+  box-shadow: none !important;
+}
+
+.card {
+  margin-top: 2rem;
+}
+
+.card-header {
+  font-size: 80%;
+  padding: 9px 12px;
+}
+.card-text {
+  display: inline;
+  vertical-align: middle;
+}
+.strike {
+  text-decoration: line-through;
+}
+.card-body {
+  padding: 12px;
+}
+.delete {
+  float: right;
+  font-size: 80%;
+  outline: none;
+}
+
+.checkbox {
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.form {
+  margin-top: 15px;
+}
+
+.navbar {
+  padding: 0 16px;
+}
+.navbar-text {
+  font-size: 2rem;
+  padding: 0;
+}
+
+.container {
+  width: 60%;
+}
+
+.defaultT {
+  text-align: center;
+  margin-top: 10px;
+}
